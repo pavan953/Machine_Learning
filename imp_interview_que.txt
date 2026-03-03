@@ -1,0 +1,46 @@
+---> From Statistics (for all que we have to explain where we use it.)
+
+1. Explain mean median mode..
+2. Diff bet variance and standard deviation with example.
+3. What is the difference between covarience and corelation.
+4. Explain normal distribution and poison distribution.
+5. Explain zscore and iqr method.
+6. What is centeral limit theorem.
+7. What is hypothesis testing.
+8. Explain p value in hypothesis testing.
+9. Explain sampling techniques.
+    - What is sampling.
+    - Types of Sampling.
+10. Explain anova test and chi-square test.
+11. Explain what is time series analysis(moving average).
+
+
+---> Machine Learing
+
+1. What is renforcement Learing.
+2. Diff between machine learning and deep learning.
+3. why ml approach is better than traditional approach.
+4. Explain types of ml with real time example.
+5. Diff bet classification and clustering algo.
+6. Explain Regression and its types
+7. Explain linear and non linear data and how to find it.
+8. What is linear regression and explain about straight line.
+9. Explain slope and intercept with real time example along with conclusion.
+10. What is weights.
+11. Explain regression metrics(r2 score, rmse, rmae, mse, mae).
+12. Diff bet mae and rmse.
+13. What is generalization.
+14. Explain regularization techniques and its usage.
+15. What is grediantation.
+16. What is cost function.
+17. What is metrics.
+18. When to use regularization.
+19. Explain sigmoid and softmax activation function.
+20. Why logistic regression comes under regression.
+21. When to use f1 score and accuracy score.
+22. Explain precision score and recall score, which is best for real time evaluation.
+23. Explain micro and macro average.
+24. Explain underfit, goodfit and overfit.
+25. What is multicolinearity.
+26. Will multicolinearity affects trees based model.
+27. Explain scaling and encoding techniques.
